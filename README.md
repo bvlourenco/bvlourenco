@@ -47,3 +47,5 @@ Badge colors made [here](https://github.com/Envoy-VC/awesome-badges) by [@Envoy-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bvlourenco&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvlourenco&hide=TeX&layout=compact&theme=dark)
+
+Note: The Most Used Languages only include information about public repositories.
