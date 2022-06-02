@@ -1,4 +1,4 @@
-## Hi there! <img src="assets/Hi.gif" width="30px">
+## Hi there! <img src="assets/Hi.gif" width="30">
 
 I am Bernardo Lourenço. Currently, I'm taking my Master's degree in Computer Science and Engineering in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I'm an open source advocate and I love learning new technologies 😃. 
 
