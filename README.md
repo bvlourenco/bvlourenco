@@ -41,6 +41,7 @@ Badge colors made [here](https://github.com/Envoy-VC/awesome-badges) by [@Envoy-
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-%23C21325?style=for-the-badge&logo=Junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 📈 GitHub Stats
