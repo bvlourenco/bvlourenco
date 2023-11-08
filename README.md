@@ -1,6 +1,6 @@
 ## Hi there! <img src="assets/Hi.gif" width="30">
 
-I am Bernardo Lourenço. Currently, I'm taking my Master's degree in Computer Science and Engineering in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I'm an open source advocate and I love learning new technologies 😃. 
+I am Bernardo Lourenço. I'm a Trainee Mobile Engineer at [Farfetch](https://www.farfetch.com/), in the iOS team. I'm an open-source advocate, and I love learning new technologies 😃. 
 
 You can contact me through:
 
@@ -10,6 +10,9 @@ You can contact me through:
 ## 🛠️ Tech Stack
 
 Badge colors made [here](https://github.com/Envoy-VC/awesome-badges) by [@Envoy-VC](https://github.com/Envoy-VC).
+
+### Mobile
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Backend
 
