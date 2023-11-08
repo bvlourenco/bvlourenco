@@ -45,11 +45,3 @@ Badge colors made [here](https://github.com/Envoy-VC/awesome-badges) by [@Envoy-
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-%23C21325?style=for-the-badge&logo=Junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 📈 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bvlourenco&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvlourenco&hide=TeX&layout=compact&theme=dark)
-
-Note: The Most Used Languages only include information about public repositories.
