@@ -1,6 +1,6 @@
 ## Hi there! <img src="assets/Hi.gif" width="30">
 
-I am Bernardo Lourenço. I'm a Trainee Mobile Engineer at [Farfetch](https://www.farfetch.com/), in the iOS team. I'm an open-source advocate, and I love learning new technologies 😃. 
+I am Bernardo Lourenço. I'm a Rockstar Developer at [Critical Techworks](https://www.criticaltechworks.com/). I'm an open-source advocate, and I love learning new technologies 😃. 
 
 You can contact me through:
 
