@@ -1,6 +1,6 @@
 ## Hi there! <img src="assets/Hi.gif" width="30">
 
-I am Bernardo Lourenço. I'm a Rockstar Developer at [Critical Techworks](https://www.criticaltechworks.com/). I'm an open-source advocate, and I love learning new technologies 😃. 
+I am Bernardo Lourenço. I'm a Software Engineer at [Critical Techworks](https://www.criticaltechworks.com/). I'm an open-source advocate, and I love learning new technologies 😃. 
 
 You can contact me through:
 
@@ -13,6 +13,7 @@ Badge colors made [here](https://github.com/Envoy-VC/awesome-badges) by [@Envoy-
 
 ### Mobile
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Backend
 
